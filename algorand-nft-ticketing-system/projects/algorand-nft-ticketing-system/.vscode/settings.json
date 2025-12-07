@@ -9,5 +9,8 @@
   "jest.autoRun": {
     "watch": false,
     "onSave": "test-file"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
   }
 }
