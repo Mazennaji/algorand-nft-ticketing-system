@@ -106,17 +106,6 @@ Users can mint NFT cinema tickets, verify ownership on-chain, send payments, and
 
 ---
 
-## 🧑‍💻 Developer
-
-**Mazen Naji**  
-Full-Stack Developer | Web3 & Blockchain | AI & Software Engineering | Game & Mobile development  
-📍 Lebanon 🇱🇧  
-
-🔗 GitHub: **https://github.com/Mazennaji**  
-🎯 Focus: Web3, Full Stack,Mobile, Blockchain, AI, Game Development  
-
----
-
 ## 📜 License
 
 This project is released for **educational, academic, and portfolio purposes**.  
