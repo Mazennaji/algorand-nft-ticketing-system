@@ -124,6 +124,11 @@ If you find this project useful:
 
 ---
 
+## Background 
+<img width="1184" height="907" alt="Screenshot 2025-12-10 193634" src="https://github.com/user-attachments/assets/fd827090-bbe3-4b29-a40f-302538a8446f" />
+
+---
+
 ## 🎥 Final Message
 
 MasterPass brings **real-world cinema experiences to the blockchain**, proving how Web3 can power future ticketing systems with trust, ownership, and transparency.
