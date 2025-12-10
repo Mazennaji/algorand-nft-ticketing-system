@@ -79,21 +79,30 @@ Users can mint NFT cinema tickets, verify ownership on-chain, send payments, and
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
-| Folder / File | Description |
-|--------------|-------------|
-| `/src/components` | All UI components |
-| `Home.tsx` | Main cinema landing page |
+| Directory / File | Description |
+|------------------|-------------|
+| **src/** | Main source directory |
+| **src/components/** | All UI & blockchain feature components |
+| `ConnectWallet.tsx` | Wallet connection modal |
+| `Transact.tsx` | Algo payment transactions |
 | `NFTmint.tsx` | NFT ticket minting |
 | `Tokenmint.tsx` | Fungible token minting |
-| `Transact.tsx` | Algo payment system |
-| `MyTickets.tsx` | User ticket dashboard |
-| `VerifyTicket.tsx` | Ticket verification |
-| `CinemaInfo.tsx` | Movie & location info |
-| `TicketStats.tsx` | Admin statistics |
-| `/utils` | Network & helper utilities |
-| `/utils/network` | Algod TestNet configuration |
+| `MyTickets.tsx` | User-owned NFT tickets |
+| `VerifyTicket.tsx` | On-chain ticket verification |
+| `CinemaInfo.tsx` | Cinema & movie info |
+| `TicketStats.tsx` | Ticket analytics |
+| `TicketPreview.tsx` | Ticket UI display |
+| `Hero.tsx` | Landing section |
+| `Loader.tsx` | Global loading spinner |
+| `Home.tsx` | Main application page |
+| **src/utils/** | Blockchain utilities |
+| `network/getAlgoClientConfigs.ts` | Algorand TestNet configuration |
+| **src/main.tsx** | Application entry point |
+| **index.html** | Root HTML |
+| **tailwind.config.js** | Tailwind configuration |
+| **package.json** | Project dependencies |
 
 ---
 
